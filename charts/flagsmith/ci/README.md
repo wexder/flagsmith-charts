@@ -1,3 +1,0 @@
-# Testing chart values
-
-See https://github.com/helm/charts/blob/master/test/README.md#providing-custom-test-values
